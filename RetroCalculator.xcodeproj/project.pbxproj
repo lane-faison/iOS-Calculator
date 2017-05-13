@@ -96,7 +96,7 @@
 				TargetAttributes = {
 					F6E9AEAD1EC6C39E000DAB6F = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = GW32FNEFP3;
+						DevelopmentTeam = HE9QFJ2Q6W;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -263,7 +263,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = GW32FNEFP3;
+				DEVELOPMENT_TEAM = HE9QFJ2Q6W;
 				INFOPLIST_FILE = RetroCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lanefaison.RetroCalculator;
@@ -276,7 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = GW32FNEFP3;
+				DEVELOPMENT_TEAM = HE9QFJ2Q6W;
 				INFOPLIST_FILE = RetroCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lanefaison.RetroCalculator;
