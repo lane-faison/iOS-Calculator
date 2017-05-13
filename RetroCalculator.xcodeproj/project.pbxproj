@@ -12,6 +12,8 @@
 		F6E9AEB71EC6C39E000DAB6F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F6E9AEB51EC6C39E000DAB6F /* Main.storyboard */; };
 		F6E9AEB91EC6C39E000DAB6F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F6E9AEB81EC6C39E000DAB6F /* Assets.xcassets */; };
 		F6E9AEBC1EC6C39E000DAB6F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F6E9AEBA1EC6C39E000DAB6F /* LaunchScreen.storyboard */; };
+		F6E9AEC41EC6D27D000DAB6F /* Enter-The-Grid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F6E9AEC31EC6D27D000DAB6F /* Enter-The-Grid.ttf */; };
+		F6E9AEC61EC6D3BE000DAB6F /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = F6E9AEC51EC6D3BE000DAB6F /* btn.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		F6E9AEB81EC6C39E000DAB6F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F6E9AEBB1EC6C39E000DAB6F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F6E9AEBD1EC6C39E000DAB6F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F6E9AEC31EC6D27D000DAB6F /* Enter-The-Grid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Enter-The-Grid.ttf"; path = "../enter_the_grid/Enter-The-Grid.ttf"; sourceTree = "<group>"; };
+		F6E9AEC51EC6D3BE000DAB6F /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		F6E9AEB01EC6C39E000DAB6F /* RetroCalculator */ = {
 			isa = PBXGroup;
 			children = (
+				F6E9AEC51EC6D3BE000DAB6F /* btn.wav */,
+				F6E9AEC31EC6D27D000DAB6F /* Enter-The-Grid.ttf */,
 				F6E9AEB11EC6C39E000DAB6F /* AppDelegate.swift */,
 				F6E9AEB31EC6C39E000DAB6F /* ViewController.swift */,
 				F6E9AEB51EC6C39E000DAB6F /* Main.storyboard */,
@@ -124,7 +130,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F6E9AEC61EC6D3BE000DAB6F /* btn.wav in Resources */,
 				F6E9AEBC1EC6C39E000DAB6F /* LaunchScreen.storyboard in Resources */,
+				F6E9AEC41EC6D27D000DAB6F /* Enter-The-Grid.ttf in Resources */,
 				F6E9AEB91EC6C39E000DAB6F /* Assets.xcassets in Resources */,
 				F6E9AEB71EC6C39E000DAB6F /* Main.storyboard in Resources */,
 			);
